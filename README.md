@@ -106,15 +106,15 @@ A aplicação deverá oferecer as seguintes operações:
 
 # 7. Tecnologias Utilizadas
 
-| Tecnologia | Versão | Utilização                  |
-| ---------- | ------ | --------------------------- |
-| Java       | 21.0.6 | Desenvolvimento             |
-| JDK        | 21.0.6 | Compilação                  |
-| JUnit      | XX     | Testes                      |
-| Git        | 2.39.2 | Controle de versão          |
-| GitHub     | —      | Repositório remoto          |
-| JavaDoc    | —      | Documentação                |
-| IDE        | VS.CODE     | Ambiente de desenvolvimento |
+| Tecnologia | Versão | Utilização                       |
+| ---------- | ------ | -------------------------------  |
+| Java       | 21.0.6 | Desenvolvimento                  |
+| JDK        | 21.0.6 | Compilação                       |
+| JUnit      | XX     | Testes                           |
+| Git        | 2.39.2 | Controle de versão               |
+| GitHub     | —      | Repositório remoto               |
+| JavaDoc    | 21.0.6 | Documentação                     |
+| IDE        | 1.142.0| Ambiente de desenvolvimento (VS) |
 
 ---
 
