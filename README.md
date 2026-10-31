@@ -182,7 +182,7 @@ O método `calc(int a, int b, String op)` recebe dois números inteiros e o oper
 
 # 12. Link do Repositório
 
-https://github.com/JoaoPedroGaspar/projeto-calculadora
+https://github.com/JoaoPedroGaspar/projeto_calculadora
 
 ---
 # 13. Classe Refatorada
