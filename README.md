@@ -108,13 +108,13 @@ A aplicação deverá oferecer as seguintes operações:
 
 | Tecnologia | Versão | Utilização                  |
 | ---------- | ------ | --------------------------- |
-| Java       | XX     | Desenvolvimento             |
-| JDK        | XX     | Compilação                  |
+| Java       | 21.0.6 | Desenvolvimento             |
+| JDK        | 21.0.6 | Compilação                  |
 | JUnit      | XX     | Testes                      |
-| Git        | XX     | Controle de versão          |
+| Git        | 2.39.2 | Controle de versão          |
 | GitHub     | —      | Repositório remoto          |
 | JavaDoc    | —      | Documentação                |
-| IDE        | XX     | Ambiente de desenvolvimento |
+| IDE        | VS.CODE     | Ambiente de desenvolvimento |
 
 ---
 
