@@ -9,10 +9,10 @@
 **Contexto:** FinançApp  
 **Aluno:** João Pedro Gaspar dos Santos  
 **RA:** 251752  
-**Curso:** ADS. 
+**Curso:** ADS  
 **Disciplina:** UI/UX  
 **Professor:** Daniel Ohata  
-**Semestre:** 2026.2. 
+**Semestre:** 2026.2 
 
 ---
 
