@@ -7,12 +7,12 @@
 
 **Projeto:** Projeto Calculadora  
 **Contexto:** FinançApp  
-**Aluno:** João Pedro Gaspar dos Santos 
+**Aluno:** João Pedro Gaspar dos Santos  
 **RA:** 251752  
-**Curso:** ADS
-**Disciplina:** UI/UX
-**Professor:** Daniel Ohata
-**Semestre:** 2026.2
+**Curso:** ADS. 
+**Disciplina:** UI/UX  
+**Professor:** Daniel Ohata  
+**Semestre:** 2026.2. 
 
 ---
 
@@ -156,8 +156,8 @@ O método `calc(int a, int b, String op)` recebe dois números inteiros e o oper
 | `*`      | Multiplicação | 10 * 5  | 50        |
 | `/`      | Divisão       | 10 / 5  | 2         |
 
-- **Divisão por zero:** [mensagem que seu código mostra]
-- **Operação inválida:** [mensagem que seu código mostra]
+- **Divisão por zero:** Não é permitido a divisão por ZERO(0)
+- **Operação inválida:** Operador Invalido
 
 ---
 
